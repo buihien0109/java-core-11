@@ -1,6 +1,6 @@
 package vn.techmaster;
 
-public class FinalKeyword {
+public class FinalDemo {
     public final int age = 30;
 
     public static void main(String[] args) {
@@ -24,7 +24,7 @@ public class FinalKeyword {
         // Tham chiếu đến biến global
         // System.out.println(age);
 
-        FinalKeyword f = new FinalKeyword();
+        FinalDemo f = new FinalDemo();
         System.out.println(f.age);
 
         System.out.println(f.sum(10, 20));

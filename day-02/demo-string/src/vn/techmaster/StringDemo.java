@@ -1,6 +1,6 @@
 package vn.techmaster;
 
-public class Main {
+public class StringDemo {
 
     public static void main(String[] args) {
         // Khai báo theo kiểu literal (giá trị thể hiển chính nó)
