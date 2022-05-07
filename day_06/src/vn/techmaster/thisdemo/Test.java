@@ -7,5 +7,8 @@ public class Test {
 
         System.out.println(Student.school);
         Student.sayHello();
+
+        String name = "nanbcnc";
+        name.trim().toLowerCase().substring(0, 5).length();
     }
 }
