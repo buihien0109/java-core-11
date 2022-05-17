@@ -1,2 +1,7 @@
-package vn.techmaster.custom_exception;public class NotFoundException {
+package vn.techmaster.custom_exception;
+
+public class NotFoundException extends RuntimeException {
+    public NotFoundException(String message) {
+        super(message);
+    }
 }
