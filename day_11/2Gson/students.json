@@ -1,0 +1,20 @@
+[
+  {
+    "id": 1,
+    "name": "Bùi Hiên",
+    "age": 25,
+    "email": "hien@techmaster.vn"
+  },
+  {
+    "id": 2,
+    "name": "Nguyễn Văn A",
+    "age": 0,
+    "email": "a@gmail.com"
+  },
+  {
+    "id": 3,
+    "name": "Nguyễn Văn A",
+    "age": 30,
+    "email": "a@gmail.com"
+  }
+]
