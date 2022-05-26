@@ -16,9 +16,4 @@ public class BookService {
 //    4. Sắp xếp sách theo số trang
 
 //    5. Sắp xếp sách theo năm xuất bản
-
-    public static void main(String[] args) {
-        List<Book> bookList = new ArrayList<>();
-        List<Book> bookList = new LinkedList<>();
-    }
 }
