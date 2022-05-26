@@ -3,7 +3,6 @@ package demo_stream;
 import java.util.Comparator;
 import java.util.List;
 import java.util.Optional;
-import java.util.stream.Collectors;
 
 public class DemoStreamExample {
     public static void main(String[] args) {
@@ -82,7 +81,7 @@ public class DemoStreamExample {
         System.out.println();
 
 //        Kiểm tra xem list không chứa giá trị nào = 8 hay không
-        boolean listNotContain8 =  numbers.stream().noneMatch(n -> n == 8);
+        boolean listNotContain8 = numbers.stream().noneMatch(n -> n == 8);
         System.out.println(listNotContain8);
     }
 }
